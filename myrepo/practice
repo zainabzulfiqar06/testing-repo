@@ -2,3 +2,4 @@
 echo "its for practice for $USER"
 echo "its for branch 2"
 echo "new commit"
+echo "recent commit"
